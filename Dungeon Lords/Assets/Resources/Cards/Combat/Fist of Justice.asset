@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69a4d3126e1001745a29e29cadf9331c, type: 3}
+  m_Name: Fist of Justice
+  m_EditorClassIdentifier: 
+  name: Fist of Justice
+  artwork: {fileID: 0}
+  title: Fist of Justice
+  description: The name of this spell is a bit... misleading.
+  effect: You lose 1 imp.
+  blood: 1

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69a4d3126e1001745a29e29cadf9331c, type: 3}
+  m_Name: Word of Peace
+  m_EditorClassIdentifier: 
+  name: Word of Peace
+  artwork: {fileID: 0}
+  title: Word of Peace
+  description: We come in peace!
+  effect: Withdraw all your monsters or gain 2 evil.
+  blood: 2

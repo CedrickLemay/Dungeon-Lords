@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 177c0a260b8fa7448a9f4458cdf5e8a1, type: 3}
+  m_Name: Slime
+  m_EditorClassIdentifier: 
+  name: Slime
+  artwork: {fileID: 0}
+  cost1: {fileID: 21300000, guid: 9745afd27ba184e4aab42e4424ece616, type: 3}
+  cost2: {fileID: 0}
+  cost3: {fileID: 0}
+  cost4: {fileID: 0}
+  attack_type: {fileID: 21300000, guid: 2dbafd8cc71333340a8600a26b43f8cf, type: 3}
+  attack_value: 1
+  first_attack_type: {fileID: 0}
+  first_attack_value: 
+  second_attack_type: {fileID: 0}
+  second_attack_value: 
